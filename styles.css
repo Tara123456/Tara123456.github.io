@@ -1,0 +1,215 @@
+body {
+  font-family:"helvetica",sans-serif;
+  color:#ffb8f8;
+}
+
+h1 {
+  color:#ff94f4;
+  font-family:"georgia",serif;
+}
+
+#verbs {
+  background-color:#fffc99 ;
+
+}
+#fnd {
+    background-color:#4287f5
+}
+
+#about {
+    background-color: #ff4046;
+}
+nav ul li {
+    background-color:#d4ff69;
+    list-style-type: none;
+    display:inline;
+    margin-right: 5px;
+    margin-left: 5px;
+    color:#f8ffe6;
+   
+}
+nav ul li a {
+  text-decoration: none;
+}
+
+
+#h11 {
+  color:#8fffad
+}
+
+nav {
+    background-color: #d4ff69;
+    border-radius: 10px;
+    border-color: #8dbf15;
+    border-width: 2px;
+   
+    
+}
+#blue {
+  background-color:#8fffad;
+}
+#people {
+    background-color: #70ff69;
+}
+#animals {
+    background-color: #9ceeff
+}
+#pronouns {
+    background-color: #ca6eff;
+}
+#dotw {
+    background-color: #ff1900;
+}
+#phrases {
+    background-color:#e3308f ;
+}
+
+
+.topDivider {
+border-top-style: solid;
+border-top-width: 2px;
+border-top-color:#ecf7cd ;
+padding-bottom: 10px;
+}
+.stylishBox {
+background-color:  #ffb5e6;
+color: #A52A2A;
+border-style: solid;
+border-width: 2px;
+border-color: #F5FFFA;
+border-radius:10px
+}
+#turk {
+  color:#bb00ff ;
+  border: 2px ridge #ccffff;
+  padding: 15px;
+  text-align: center;
+}
+#main {
+  background-image:linear-gradient(#fc03ca,#bb00ff,#6e0dff);
+}
+
+#flag {
+  width: 100px ;
+  border-radius: 100% ;
+  animation-name: myFirstAnimation;
+  animation-duration: 2s;
+  animation-iteration-count: 1000;
+}
+@keyframes myFirstAnimation {
+  0% {
+      width: 100px;
+  }
+  50% {
+      width: 150px;
+  }
+  100% {
+    width: 100px;
+  }
+}
+  @keyframes rainbowGlow {
+    0%{
+      color:black
+    }
+      
+    33% {
+      color:#6649cc;}
+    66% {
+      color: #09ff00;
+    }
+    100%{
+      color:black
+    }
+  }
+
+  .tinyPicture {
+    height: 60px;
+    border-radius: 10px;
+}
+.card {
+    width: 200px;
+    height: 200px;
+    border: 2px solid #F0FFFF;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 10px;
+    font-family: "Trebuchet MS", sans-serif;
+    margin-left: auto;
+margin-right: auto;
+}
+.card:hover {
+    border-color: #101113;
+}
+figure{
+color:black
+}
+
+#words {
+  text-align: center;
+    animation-name: rainbowGlow;
+    animation-duration: 3s;
+    animation-iteration-count: 100;
+}
+@keyframes slide {
+  0% {
+      background-position-x: 0;
+  }
+  100% {
+      background-position-x: 600vw;
+  }
+}
+#main {
+  background: repeating-linear-gradient(-45deg, red 0%, yellow 7.14%, lime 14.28%, cyan 21.42%, cyan 28.56%, blue 35.7%, magenta 42.84%, red 50%);
+  background-size: 600vw 600vw;
+  animation: slide 10s infinite linear forwards;
+}
+.niceLinks {
+  text-decoration: none;
+  
+}
+nav ul li a:hover {
+  color: #6649cc;
+  text-decoration: none;
+}
+
+#texty li a {
+  color: black
+}
+
+
+#istanbul {
+  background-color: #f8cfff;
+}
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+
+  
+  
+  /**********************************
+  This section is for styling tables
+  ***********************************/
+  table, th, td {
+    border: 1px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+  }
+  tr {
+    background-color: #ffb5e6;
+  }
+  th, td {
+    vertical-align: top;
+    padding: 5px;
+    text-align: left;
+  }
+  th {
+    color: purple;
+  }
+  td {
+    color: purple;
+  }
+  /********************************/

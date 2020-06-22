@@ -1,0 +1,120 @@
+#4287f5 = nice bluey colour
+#d4ff69 = nice pastely lime green
+#8dbf15 = deeper lime green
+#fc03ca = fucia
+#6649cc = darkish cornflower blue
+#af03ff = blueish purple
+#f700ff = magenta
+#09ff00 = kinda neon green
+#7bb079 = dull green
+#7c07b3 = dark blue-violet
+#eabdff = light lilac
+#ea00ff = bright purple
+#1E90FF = azure
+#8fffad = pastel emerald
+#f8cfff = extremely pastely purple
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           TABLE
+
+<table>
+            <tr>
+                <th>English</th>
+                <th>Turkish</th>
+                <th>Pronunciation</th>
+            </tr>
+            <tr>
+                <td></td>
+
+
+
+            </tr>
+
+
+
+
+
+        </table>
+
+
+                    TABLE ROW
+        <tr>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+        </tr>        
+
+
+                         
+
+
+
+
+                    TEMPLATE PAGE
+        
+        <!DOCTYPE html>
+<html>
+	<head>
+		<title>Blank Page</title>
+		<link type="text/css" rel="stylesheet" href="styles.css"/>
+		<meta charset="utf-8"/>
+	</head>
+	<body>
+	  <header>
+	    
+	  </header>
+	  <main>
+	    
+	    
+	    
+	  </main>
+	  <footer>
+	    
+	  </footer>
+	</body>
+</html>
+
+             BOX link
+        
+        <a href=" ">
+         <article class="card">
+            <img src="" class="tinyPicture">
+           <h3></h3> 
+            <p>  </p>
+        </article>
+        </a>        
+
+
+                CAPTION
+        <figcaption>
+			
+		</figcaption>
+
+
+
+
+
+
+
+
+
+
+
