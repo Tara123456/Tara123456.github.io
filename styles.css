@@ -137,6 +137,7 @@ border-radius:10px
     font-family: "Trebuchet MS", sans-serif;
     margin-left: auto;
 margin-right: auto;
+color:beige
 }
 .card:hover {
     border-color: #101113;
@@ -144,7 +145,7 @@ margin-right: auto;
 figure{
 color:black
 }
-.card {
+#card{
 
   width: 200px;
   height: 200px;
